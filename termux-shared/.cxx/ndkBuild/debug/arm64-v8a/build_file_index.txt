@@ -1,0 +1,2 @@
+/root/termux-app/termux-shared/src/main/cpp/Android.mk
+/root/termux-app/termux-shared/src/main/cpp/Application.mk
